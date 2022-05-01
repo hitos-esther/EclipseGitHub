@@ -10,6 +10,7 @@ package paqueteJavaGit;
 public class JavaGitFile {
 	static String nombre="Esther";
 	static String apellido="Hitos";
+	static String apellido2="Garcia";
 	
 	/**
 	 * @param args
@@ -18,6 +19,7 @@ public class JavaGitFile {
 		// TODO Auto-generated method stub
 		System.out.println("Mi nombre es:"+nombre);
 		System.out.println("El primer Apellido es: "+apellido);
+		System.out.println("El segundo Apellido es: "+apellido2);
 	}
 
 }
